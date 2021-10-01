@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------
 #Welcome!
 
-## I'm Luiz! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+## I'm Luiz Victor! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif width="30">
 
 :computer: I'm a Beginner developer!
 
