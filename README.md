@@ -9,8 +9,6 @@
 
 :books: I'm currently learning about every possible thing!
 
-:outbox_tray: 2021 Goals: Create something from the scratch
-
 ## About me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/lluiiz)
